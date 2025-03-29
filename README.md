@@ -31,10 +31,7 @@ A sleek and responsive **Weather Dashboard Web App** built with **React.js** and
    ```
 3. **Get API Key**
    - Sign up at [OpenWeatherMap](https://openweathermap.org/) and get your API key.
-   - Create a `.env` file in the root directory and add:
-     ```env
-     REACT_APP_WEATHER_API_KEY=your_api_key_here
-     ```
+     
 4. **Run the Application**
    ```sh
    npm start
