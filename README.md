@@ -22,7 +22,7 @@ A sleek and responsive **Weather Dashboard Web App** built with **React.js** and
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/weather-dashboard.git
+   git clone https://github.com/Shivam01729/weather-web-app.git
    cd weather-dashboard
    ```
 2. **Install Dependencies**
@@ -34,5 +34,5 @@ A sleek and responsive **Weather Dashboard Web App** built with **React.js** and
      
 4. **Run the Application**
    ```sh
-   npm start
+   npm run dev
    ```
